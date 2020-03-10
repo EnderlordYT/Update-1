@@ -28,7 +28,7 @@ var _app = function ()
         "",
         "$$$~",
         "",
-        "coconut",
+        "nigga",
         "AK47 up in this bitch... ︻╦╤─",
         "Chat shit get swatted",
         "",
