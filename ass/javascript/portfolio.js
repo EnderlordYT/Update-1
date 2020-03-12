@@ -16,17 +16,17 @@
 
 			          {
                     name: 'RzyReturns',
-                    link: 'https://discord.gg/SCpYRVY'
+                    link: 'https://discord.gg/wjRMCvz'
                 },
               
                 {
                     name: 'discord',
-                    link: 'https://discord.gg/NAXjUEC'
+                    link: 'https://discord.gg/wjRMCvz'
                 },
                             
                 {
                     name: 'instagram',
-                    link: 'https://instagram.com/menderlxrd'
+                    link: 'https://instagram.com/enderlxrd'
                 },
                 
               
